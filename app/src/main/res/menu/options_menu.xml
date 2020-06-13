@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/m1"
+        android:title="settings"
+        android:icon="@drawable/ic_settings_applications_black_24dp"></item>
+
+    <item
+        android:id="@+id/m2"
+        android:title="more"></item>
+
+</menu>
